@@ -1,7 +1,7 @@
 name:                stackHaskelltest
 version:             0.1.0.1
--- synopsis:
--- description:
+synopsis:            self-teach aid
+description:         learning to split program into libraries
 homepage:            https://github.com/githubuser/stackHaskelltest#readme
 license:             BSD3
 license-file:        LICENSE
