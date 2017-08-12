@@ -1,7 +1,7 @@
 module Main where
 import Lib2
 import Lib1
-import Lib
+import Lib0
 
 main :: IO ()
 main = do
