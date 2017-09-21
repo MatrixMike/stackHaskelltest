@@ -16,8 +16,7 @@ version:             0.1.0.2
 synopsis:            demo of slow demo of adding local and external routines
 
 -- A longer description of the package.
--- description:         
-
+description:         Use gitk to inspect the progress of this project - which was created as a template of how to migrate from one lts to another and add an external library
 -- The license under which the package is released.
 license:             BSD3
 
