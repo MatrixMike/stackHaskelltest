@@ -9,4 +9,8 @@ main = do
     someFunc
     someFunc1
     someFunc2
-    
+    putStrLn $ "d"
+    putStrLn $ hex "d"
+-- added a call to an external routine 
+-- .cabal file just needed to mention hex
+   
