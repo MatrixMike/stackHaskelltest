@@ -1,0 +1,84 @@
+.stack-work/
+├── dist
+│   └── x86_64-linux
+│       └── Cabal-1.24.2.0
+│           ├── build
+│           │   ├── autogen
+│           │   │   ├── cabal_macros.h
+│           │   │   └── Paths_stackHaskelltest.hs
+│           │   └── stackHaskelltest
+│           │       ├── stackHaskelltest
+│           │       └── stackHaskelltest-tmp
+│           │           ├── Lib0.hi
+│           │           ├── Lib0.o
+│           │           ├── Lib1.hi
+│           │           ├── Lib1.o
+│           │           ├── Lib2.hi
+│           │           ├── Lib2.o
+│           │           ├── Main.hi
+│           │           ├── Main.o
+│           │           └── src
+│           │               ├── Lib0.dump-hi
+│           │               ├── Lib1.dump-hi
+│           │               ├── Lib2.dump-hi
+│           │               └── Main.dump-hi
+│           ├── package.conf.inplace
+│           │   └── package.cache
+│           ├── setup-config
+│           ├── stack-build-cache
+│           ├── stack-cabal-mod
+│           └── stack-config-cache
+├── install
+│   └── x86_64-linux
+│       ├── lts-8.23
+│       │   └── 8.0.2
+│       │       ├── bin
+│       │       │   └── stackHaskelltest-exe
+│       │       ├── doc
+│       │       │   ├── stackHaskelltest-0.1.0.0
+│       │       │   │   └── LICENSE
+│       │       │   └── stackHaskelltest-0.1.0.1
+│       │       │       └── LICENSE
+│       │       ├── flag-cache
+│       │       │   ├── stackHaskelltest-0.1.0.0-AzaY6cSrA5dHEOP7ZrpPyz
+│       │       │   └── stackHaskelltest-0.1.0.1-8Xie6uuC7mbHUCjqoNbfoA
+│       │       ├── lib
+│       │       │   └── x86_64-linux-ghc-8.0.2
+│       │       │       ├── libHSstackHaskelltest-0.1.0.0-AzaY6cSrA5dHEOP7ZrpPyz-ghc8.0.2.so
+│       │       │       ├── libHSstackHaskelltest-0.1.0.1-8Xie6uuC7mbHUCjqoNbfoA-ghc8.0.2.so
+│       │       │       ├── stackHaskelltest-0.1.0.0-AzaY6cSrA5dHEOP7ZrpPyz
+│       │       │       │   ├── Lib.dyn_hi
+│       │       │       │   ├── Lib.hi
+│       │       │       │   └── libHSstackHaskelltest-0.1.0.0-AzaY6cSrA5dHEOP7ZrpPyz.a
+│       │       │       └── stackHaskelltest-0.1.0.1-8Xie6uuC7mbHUCjqoNbfoA
+│       │       │           ├── Lib0.dyn_hi
+│       │       │           ├── Lib0.hi
+│       │       │           ├── Lib1.dyn_hi
+│       │       │           ├── Lib1.hi
+│       │       │           ├── Lib2.dyn_hi
+│       │       │           ├── Lib2.hi
+│       │       │           ├── Lib.dyn_hi
+│       │       │           ├── Lib.hi
+│       │       │           └── libHSstackHaskelltest-0.1.0.1-8Xie6uuC7mbHUCjqoNbfoA.a
+│       │       └── pkgdb
+│       │           ├── package.cache
+│       │           └── stackHaskelltest-0.1.0.1-8Xie6uuC7mbHUCjqoNbfoA.conf
+│       └── lts-9.5
+│           └── 8.0.2
+│               ├── bin
+│               │   └── stackHaskelltest
+│               ├── doc
+│               │   └── stackHaskelltest-0.1.0.2
+│               │       └── LICENSE
+│               ├── flag-cache
+│               │   ├── hex-0.1.2-HUUA94TVE748JTmJozIoTC
+│               │   └── stackHaskelltest-0.1.0.2
+│               ├── installed-packages
+│               │   └── stackHaskelltest-0.1.0.2
+│               └── pkgdb
+│                   └── package.cache
+└── logs
+    ├── stackHaskelltest-0.1.0.1-sdist.log
+    └── stackHaskelltest-0.1.0.2-sdist.log
+
+32 directories, 49 files
